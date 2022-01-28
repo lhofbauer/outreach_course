@@ -1,0 +1,50 @@
+Filename: ES_photo_1.jpg
+Source: "India ~ Streets of Old Delhi", VasenkaPhotography
+Website: https://www.flickr.com/photos/vasenka/7023257927
+License: CC BY 2.0
+
+Filename: ES_photo_2.jpg
+Source: "Cambridge Circus", Stig Nygaard
+Website: https://www.flickr.com/photos/stignygaard/26641394408
+License: CC BY 2.0
+
+Filename: ES_photo_3.jpg
+Source: "Shepherds Flat Wind Farm, Oregon, USA, seen from the Empire Builder train route", Steve Wilson
+Website: https://en.wikipedia.org/wiki/Renewable_energy_in_the_United_States#/media/File:Shepherds_Flat_Wind_Farm_2011.jpg
+License: CC BY 2.0
+
+Filename: ES_photo_4.jpg
+Source: "Ladakh", Leonhard Hofbauer
+Website: -
+License: CC BY 4.0
+
+Filename: Model_photo_1.jpg
+Source: "Globe, circa 1904 / Globe terrestre, vers 1904", BiblioArchives / LibraryArchives 
+Website: https://www.flickr.com/photos/28853433@N02/6944966078
+License: CC BY 2.0
+
+Filename: Model_photo_2.jpg
+Source: "Bicycle", Conal Gallagher
+Website: https://www.flickr.com/photos/75083336@N00/14909247947
+License: CC BY 2.0
+
+Filename: Model_photo_3.png
+Source: Screenshot from DECC 2050 Calculator, DECC
+Website: http://2050-calculator-tool.decc.gov.uk/#/calculator
+License: Open Government License
+
+Filename: Model_photo_4.jpg
+Source: "Tracking a Superstorm", NASA Goddard Photo and Video
+Website: https://www.flickr.com/photos/24662369@N07/8971445552
+License: CC BY 2.0
+
+Filename: power_system.jpg
+Source: " Schema of Electricity networks- Generation, Tranmission and Distribution", Quark46
+Website: https://commons.wikimedia.org/wiki/File:Electricity_grid_schema-_lang-en.jpg
+License: CC BY 3.0
+
+Filename: SSP_pathways.jpg
+Source: Riahi, Keywan, Detlef P. van Vuuren, Elmar Kriegler, Jae Edmonds, Brian C. O’Neill, Shinichiro Fujimori, Nico Bauer, et al. ‘The Shared Socioeconomic Pathways and Their Energy, Land Use, and Greenhouse Gas Emissions Implications: An Overview’. Global Environmental Change 42 (January 2017): 153–68. https://doi.org/10.1016/j.gloenvcha.2016.05.009.
+Website: https://doi.org/10.1016/j.gloenvcha.2016.05.009.
+License: CC BY 4.0
+
